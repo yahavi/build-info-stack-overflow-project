@@ -4,7 +4,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>nested-multi-module-project</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>pom</packaging>
 
     <description>a multi-module project setup that results in a StackOverflowError on Jenkins in with combination the Artifactory plugin</description>
