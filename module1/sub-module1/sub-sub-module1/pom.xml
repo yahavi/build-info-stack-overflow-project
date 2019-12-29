@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>sub-module1</artifactId>
-		<version>1.5-SNAPSHOT</version>
+		<version>1.5</version>
 	</parent>
     
     <artifactId>sub-sub-module1</artifactId>        
